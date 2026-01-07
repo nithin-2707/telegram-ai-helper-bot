@@ -42,3 +42,25 @@ telegram-ai-helper-bot/
 ├── workflow/
 │   └── n8n-telegram-ai-bot.json
 
+## 📥 How to Use the Workflow
+
+1. Open **n8n**
+2. Import the JSON file from the `workflow/` folder
+3. Add your **Telegram Bot** credentials
+4. Add your **Google Gemini API** credentials
+5. Activate the workflow
+6. Start chatting with the bot on **Telegram**
+
+---
+
+## 🎯 Problem Solved
+
+This project automates AI-based conversations on Telegram, eliminating the need for manual responses.  
+It demonstrates **real-world API integration**, **event-driven automation**, and **AI-powered workflows** using a low-code platform.
+
+---
+
+## 👨‍💻 Author
+
+**Gandrathi Nithin**  
+Aspiring Software Engineer | AI Automation Enthusiast
