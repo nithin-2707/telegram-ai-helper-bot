@@ -41,7 +41,7 @@ telegram-ai-helper-bot/
 ├── README.md
 ├── workflow/
 │   └── n8n-telegram-ai-bot.json
-
+```
 ## 📥 How to Use the Workflow
 
 1. Open **n8n**
